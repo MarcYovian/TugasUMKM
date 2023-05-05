@@ -134,6 +134,7 @@ ul.nav-links {
 /* About */
 .about-us {
   margin: 0 100px;
+  padding-top: 50px;
   display: flex;
   flex-direction: row;
   align-content: center;
